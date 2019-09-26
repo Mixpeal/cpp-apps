@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "memory": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp",
+        "cmath": "cpp",
+        "istream": "cpp",
+        "__locale": "cpp",
+        "__string": "cpp",
+        "string_view": "cpp",
+        "string": "cpp"
+    }
+}
